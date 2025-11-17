@@ -612,7 +612,7 @@ The system follows a layered architecture with clear separation of concerns:
 #### 3.1. Create Service Account
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
-2. Create a new project or select an existing one
+2. Create a project or select an existing one
 3. Enable the **Google Sheets API**:
    - Menu → APIs & Services → Library
    - Search for "Google Sheets API"
